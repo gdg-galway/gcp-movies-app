@@ -27,7 +27,7 @@ URL: http://localhost:8080/
 
 It means that the application is running and it's reachable at that URL.
 
-Image here
+![Displaying the default movie](./readme-images/movie-0.png)
 
 Go to the URL and type
 
@@ -37,7 +37,9 @@ http://localhost:8080/?film=2
 
 where `?film=2` is the **query**. Now you should display another movie
 
-Image here
+![Displaying the third image](./readme-images/movie-2.png)
+
+And yeah - Mr. Stark is amazing!
 
 In your terminal you will find some logs like
 
